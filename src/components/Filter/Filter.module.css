@@ -1,0 +1,14 @@
+.label {
+  display: block;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.input {
+  display: block;
+  height: 20px;
+  width: 100%;
+  border: 1px solid orange;
+  border-radius: 3px;
+  font-size: 15px;
+}
